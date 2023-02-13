@@ -18,11 +18,12 @@ Understand basic operations for Python requests like GET and POST methods
 
 
 GENERAL INSTRUCTIONS FOR THE SCRIPT:
+
 The following are a few libraries that will be required for the script. Import them using:
 
 import os
 import requests
-Copied!
+
 The script should now follow the structure:
 
 List all .txt files under /data/feedback directory that contains the actual feedback to be displayed on the company's website.
