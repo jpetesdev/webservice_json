@@ -17,7 +17,7 @@ Use the Python requests module to upload content to a running Web service
 Understand basic operations for Python requests like GET and POST methods 
 
 
-
+GENERAL INSTRUCTIONS FOR THE SCRIPT:
 The following are a few libraries that will be required for the script. Import them using:
 
 import os
